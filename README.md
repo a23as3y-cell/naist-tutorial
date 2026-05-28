@@ -1,2 +1,2 @@
 # NAIST Trainig
-tutorial succeeded
+add from github web

@@ -1,1 +1,2 @@
 # NAIST Trainig
+tutorial succeeded
